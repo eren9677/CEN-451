@@ -1,4 +1,4 @@
-# Mushroom Edibility Prediction Project Presentation
+# Mushroom Edibility Prediction Project
 
 This presentation outlines a project focused on using a **Multi-Layer Perceptron (MLP) neural network** to predict whether mushrooms are edible or poisonous. The project utilises the **UCI Mushroom Dataset** and aims to provide an overview of the development process, the methodologies employed, and the results achieved.
 
